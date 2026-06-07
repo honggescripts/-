@@ -1,5 +1,5 @@
 # 汉字练字字帖生成器 Web 独立版
-单文件 Python 实现的**田字格字帖 PDF 生成工具**，基于 Flask + Pillow 构建，无需拆分脚本，开箱即用，跨平台支持 Windows / macOS / Linux。
+单文件 Python 实现的**米字格字帖 PDF 生成工具**，基于 Flask + Pillow 构建，无需拆分脚本，开箱即用，跨平台支持 Windows / macOS / Linux。
 
 ## 一、环境依赖
 运行前请安装依赖库：
